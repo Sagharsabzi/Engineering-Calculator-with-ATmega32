@@ -11,7 +11,7 @@ This project is an engineering calculator built using the **ATmega32** microcont
 
 ## Setup and Installation
 1. **Hardware Setup**:
-   - ATmega32, LCD display, 4x4 keypad
+   - ATmega32, LCD display, 4x4 keypad, scientific keypad
 2. **Flashing the Code**:
    - Open the code in **Atmel Studio** or **AVR-GCC** and upload it to the microcontroller.
 3. **Usage**:
